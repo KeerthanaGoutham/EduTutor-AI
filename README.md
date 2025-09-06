@@ -11,8 +11,8 @@ The goal is to show how generative AI can support **personalized learning** and 
 
 
 ## 🚀 Features  
-- **Concept Explanation**: Type any concept (e.g., Photosynthesis) → get a detailed explanation with examples.  
-- **Quiz Generator**: Enter a topic (e.g., Newton’s Laws) → generates 5 questions (MCQ, True/False, short answer) with an **Answers section**.  
+- **Concept Explanation**: Type any concept → get a detailed explanation with examples.  
+- **Quiz Generator**: Enter a topic → generates 5 questions (MCQ, True/False, short answer) with an **Answers section**.  
 - **User-friendly Interface**: Built using Gradio in Colab, no extra setup required.  
 
 
